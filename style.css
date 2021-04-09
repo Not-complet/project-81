@@ -1,0 +1,7 @@
+#column_1, #column_2{
+    width:50%;
+}
+#flex_needed{
+    display:flex;
+    flex-direction: row;
+}
